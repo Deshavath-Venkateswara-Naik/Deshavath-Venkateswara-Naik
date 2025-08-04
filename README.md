@@ -50,7 +50,7 @@ I'm a passionate developer building smart, real-world solutions. I enjoy solving
 ### 🔐 Face Recognition Gate System
 > React + Flask + OpenCV + FaceNet + MySQL  
 > Real-time student/visitor entry monitoring system using facial recognition  
-🔗 [GitHub](https://github.com/Deshavath-Venkateswara-Naik/face-recognition-system) | 🎥 Demo: [Coming Soon]
+🔗 [GitHub](https://github.com/Deshavath-Venkateswara-Naik/Face-Recognition-and-Report-generation) | 🎥 Demo: [Coming Soon]
 
 ---
 
@@ -62,7 +62,7 @@ I'm a passionate developer building smart, real-world solutions. I enjoy solving
 
 ### 💬 Real-Time Chat App
 > MERN + Socket.IO | Private & Group Chats, Auth, Live Messaging  
-🔗 [GitHub](https://github.com/github.com/Deshavath-Venkateswara-Naik/devtinderr)
+🔗 [GitHub](https://github.com/github.com/Deshavath-Venkateswara-Naik/DevTinderr)
 
 ---
 

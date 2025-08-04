@@ -50,25 +50,25 @@ I'm a passionate developer building smart, real-world solutions. I enjoy solving
 ### 🔐 Face Recognition Gate System
 > React + Flask + OpenCV + FaceNet + MySQL  
 > Real-time student/visitor entry monitoring system using facial recognition  
-🔗 [GitHub](https://github.com/deshavath-venkateswara-naik/face-recognition-gate-system) | 🎥 Demo: [Coming Soon]
+🔗 [GitHub](https://github.com/Deshavath-Venkateswara-Naik/face-recognition-system) | 🎥 Demo: [Coming Soon]
 
 ---
 
 ### 📖 Book Review Web App
 > MERN Stack Project | CRUD, Auth, Reviews, Pagination  
-🔗 [GitHub](https://github.com/github.com/deshavath-venkateswara-naik/book-review) | 🌐 Live: [Coming Soon]
+🔗 [GitHub](https://github.com/github.com/Deshavath-Venkateswara-Naik/book-review) | 🌐 Live: [Coming Soon]
 
 ---
 
 ### 💬 Real-Time Chat App
 > MERN + Socket.IO | Private & Group Chats, Auth, Live Messaging  
-🔗 [GitHub](https://github.com/github.com/deshavath-venkateswara-naik/devtinderr)
+🔗 [GitHub](https://github.com/github.com/Deshavath-Venkateswara-Naik/devtinderr)
 
 ---
 
 ### 🧠 AI Insurance Fraud Detection (Final Year Project)
 > Python | ML | Pandas | Scikit-learn | Research Paper Ready  
-🔗 [GitHub](https://github.com/github.com/deshavath-venkateswara-naik/insurance-fraud-detection)
+🔗 [GitHub](https://github.com/github.com/Deshavath-Venkateswara-Naikk/insurance-fraud-detection)
 
 ---
 

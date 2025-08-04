@@ -62,7 +62,7 @@ I'm a passionate developer building smart, real-world solutions. I enjoy solving
 
 ### 💬 Real-Time Chat App
 > MERN + Socket.IO | Private & Group Chats, Auth, Live Messaging  
-🔗 [GitHub](https://github.com/github.com/Deshavath-Venkateswara-Naik/DevTinderr)
+🔗 [GitHub](https://github.com/Deshavath-Venkateswara-Naik/DevTinderr)
 
 ---
 

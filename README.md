@@ -74,7 +74,7 @@ I'm a passionate developer building smart, real-world solutions. I enjoy solving
 
 ### 🌐 Portfolio Website
 > Showcasing all my skills, experience, and project work  
-🔗 [Live](https://portfolio-three-indol-xjchcv3wcy.vercel.app/) | [GitHub](https://github.com/github.com/Deshavath-Venkateswara-Naik/portfolio)
+🔗 [Live](https://portfolio-three-indol-xjchcv3wcy.vercel.app/) | [GitHub](https://github.com/Deshavath-Venkateswara-Naik/portfolio)
 
 ---
 

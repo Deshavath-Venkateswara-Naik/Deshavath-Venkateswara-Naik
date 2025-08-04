@@ -56,7 +56,7 @@ I'm a passionate developer building smart, real-world solutions. I enjoy solving
 
 ### 📖 Book Review Web App
 > MERN Stack Project | CRUD, Auth, Reviews, Pagination  
-🔗 [GitHub](https://github.com/github.com/Deshavath-Venkateswara-Naik/book-review) | 🌐 Live: [Coming Soon]
+🔗 [GitHub](https://github.com/Deshavath-Venkateswara-Naik/Book-Review)) | 🌐 Live: [Coming Soon]) 
 
 ---
 
@@ -74,7 +74,7 @@ I'm a passionate developer building smart, real-world solutions. I enjoy solving
 
 ### 🌐 Portfolio Website
 > Showcasing all my skills, experience, and project work  
-🔗 [Live](https://portfolio-three-indol-xjchcv3wcy.vercel.app/) | [GitHub](https://github.com/github.com/deshavath-venkateswara-naik/portfolio)
+🔗 [Live](https://portfolio-three-indol-xjchcv3wcy.vercel.app/) | [GitHub](https://github.com/github.com/Deshavath-Venkateswara-Naik/portfolio)
 
 ---
 
